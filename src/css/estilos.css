@@ -97,7 +97,7 @@ border-radius: 5px;
 }
 
 .card-body-heigh{
-	height: 230px;
+	height: 300px;
 	display: flex;
 	flex-direction: column;
 	align-content: space-around;
