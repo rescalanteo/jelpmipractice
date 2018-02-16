@@ -1,0 +1,19 @@
+{
+  "name": "jelpmipractice",
+  "version": "1.0.0",
+  "description": "\"Clon de JelpMe\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rescalanteo/jelpmipractice.git"
+  },
+  "author": "Misael Calvillo Mancilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rescalanteo/jelpmipractice/issues"
+  },
+  "homepage": "https://github.com/rescalanteo/jelpmipractice#readme"
+}
