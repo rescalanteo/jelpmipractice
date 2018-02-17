@@ -1,13 +1,14 @@
 
 $(window).scroll(function() {
-  if ($document.scrollTop() >= 5px) {
+  if ($document.scrollTop() > 5px) {
     // usuario bajó 5 px o más;
     // entonces:
-    $element.addClass(menutransparente);
-    $element.removeClass(menusolido);
+    $("#cabeza").addClass("menutransparente");
+    $("#cabeza").removeClass("menusolido");
 
   } else {
-    $element.removeClass(menutransparente);
-    $element.addClass(menusolido);
+    $("#cabeza").removeClass("menutransparente");
+    $("#cabeza").addClass("menusolido");
   }
 });
+
